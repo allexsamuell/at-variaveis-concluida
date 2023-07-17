@@ -36,7 +36,7 @@ Essa relação lê-se: _"110 reais representa 100% do valor, quantos porcento eq
 
 $$ 60 \* 100 = 110d $$
 
-$$ \frac{5000}{110} = d $$
+$$ \frac{6000}{110} = d $$
 
 $$ d ≅ 54,5 $$
 
