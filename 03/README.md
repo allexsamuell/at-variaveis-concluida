@@ -25,19 +25,20 @@ Caso você tivesse apenas R\$ 50,00 e desejasse comprar um produto de R\$ 110,00
 ```javascript
 valor_do_desconto = valor_total - meu_dinheiro;
 valor_do_desconto = 110 - 50;
+valor_do_desconto = 60;
 ```
 
 | 110 | 100 |
 | :-: | :-: |
-| 50  |  d  |
+| 60  |  d  |
 
-Essa relação lê-se: _"110 reais representa 100% do valor, quantos porcento equivale a 50 reais?"_ Esse valor é obtido em **d**.
+Essa relação lê-se: _"110 reais representa 100% do valor, quantos porcento equivale a 60 reais?"_ Esse valor é obtido em **d**.
 
-$$ 50 \* 100 = 110d $$
+$$ 60 \* 100 = 110d $$
 
 $$ \frac{5000}{110} = d $$
 
-$$ d ≅ 45,5 $$
+$$ d ≅ 54,5 $$
 
 ---
 
