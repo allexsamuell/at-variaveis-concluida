@@ -8,7 +8,7 @@ Faça um programa que calcula a taxa de juros que foi operada sobre um financiam
 
 A fórmula (e um exemplo) que calcula essa taxa segue abaixo:
 
-$$ i = \frac{M}{C}^\frac{1}{n} - 1 $$
+$$ i = \left( \frac{M}{C} \right)^\frac{1}{n} - 1 $$
 
 onde:
 
